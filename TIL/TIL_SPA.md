@@ -45,3 +45,5 @@ SPA는 `'Single Page Application'`의 약자로 **단일 페이지로 구성된 
 ### SPA 프레임워크
 
 ### Angular, React, Vue → 모두 SPA를 쉽고 확장성 있게 구현하는 것을 목표로 함
+
+- react 써서 직접 SPA 구현해보자!
